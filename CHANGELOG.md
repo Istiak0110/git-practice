@@ -1,9 +1,14 @@
 # Changelog
 
-## Unreleased
-- Added student address.
-- Added student phone number.
-- Added student email.
-- Added student department.
-- Added student CGPA.
-- Added student age.
+## Version 1.3
+- Renamed student ID and student name fields.
+- Increased name, address, and phone capacities.
+
+## Version 1.2
+- Added department, email, phone, address, gender, and status.
+
+## Version 1.1
+- Added age, CGPA, semester, and credit hours.
+
+## Version 1.0
+- Initial Student structure created.
